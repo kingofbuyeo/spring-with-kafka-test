@@ -1,0 +1,8 @@
+.idea/
+*.iml
+db.log
+db.properties
+db.script
+depoly.sh
+target/
+src/main/resources/application-dev.yml
